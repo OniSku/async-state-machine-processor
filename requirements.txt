@@ -1,0 +1,5 @@
+aiohttp>=3.9.0
+asyncio-contextmanager>=1.0.0
+playwright
+pywinauto>=0.6.8
+websocket-client>=1.6.0
