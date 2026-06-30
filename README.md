@@ -2,6 +2,8 @@
 
 ⚠️ **Дисклеймер**: Этот репозиторий является витриной кода для демонстрации. URL endpoint'ов, XPath/CSS-селекторы и структуры payload'ов форм намеренно скрыты или упрощены. Полная реализация доступна только заказчику.
 
+> **NDA Notice**: The source code in this repository is a sanitized showcase version. The complete implementation, business logic, and client-specific configurations are proprietary and covered by a non-disclosure agreement.
+
 Система автоматической подачи заявок на портал госзакупок Республики Казахстан (goszakup.gov.kz).
 
 ## Архитектура
